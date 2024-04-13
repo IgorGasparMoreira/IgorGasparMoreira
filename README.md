@@ -9,7 +9,7 @@
 
 - 📫  How to reach me **igorgasparmoreira@outlook.com**.
 
-- ⚡  Always keen on **🍖 Churrasco, 🧀 Pão de Queijo, 🎮 PS5, 🍿 Movies, 📺 Sitcoms and of course**.
+- ⚡  Always keen on **🍖 Churrasco, 🍕 Pizza, 🎮 PS5, 🍿 Movies, 📺 Sitcoms and of course**.
 
 ![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=igorgasparmoreira&show_icons=true&theme=tokyonight)
 
